@@ -7,7 +7,7 @@ paths:
     get:
       responses:
         '200':
-          description: No response was specified<aimg1>
+          description: No response was specified<aimtg1>
       tags:
         - accounts
       operationId: findAccounts
